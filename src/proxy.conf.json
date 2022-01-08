@@ -1,0 +1,12 @@
+
+{
+    "/openApi": {
+      "target": "",
+      "secure": false,
+      "changeOrigin": true,
+      "logLevel":"debug",
+      "headers": {
+        "Connection": "keep-alive"
+    }
+    }
+  }
